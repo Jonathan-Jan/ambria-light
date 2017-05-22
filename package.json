@@ -1,0 +1,19 @@
+{
+  "name": "ambria-light",
+  "version": "1.0.0",
+  "description": "ambria",
+  "main": "ambria-light.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Jonathan Jan <contact@jonathan-jan.fr> (http://jonathan-jan.fr)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "lodash": "^4.17.4"
+  }
+}
